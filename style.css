@@ -1,4 +1,6 @@
-
+*{
+ background-color: rgb(212, 220, 221);
+}
 
 .calculator{
 display: inline-block;
