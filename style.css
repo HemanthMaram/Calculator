@@ -1,0 +1,43 @@
+
+
+.calculator{
+display: inline-block;
+width:280px;
+background-color: rgb(212, 220, 221);
+padding: 10px;
+text-align: center;
+justify-content: center;
+ margin-top: 100px; 
+   
+   box-sizing: border-box;
+   border-radius: 25px;
+   
+}
+span{
+  
+   font-weight: bold;
+   text-align: right;
+   
+   
+   
+}
+input{
+   
+   
+   width: 250px;
+   text-align: right;
+   font-weight: bold;
+}
+
+button{
+   padding: 17px;
+   margin: 8px;
+   border: 1px white;
+   border-radius: 50%;
+   font-weight: bolder;
+   text-align: center;
+   background-color: #0099ff;
+   
+   
+}
+
