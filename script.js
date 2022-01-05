@@ -1,5 +1,5 @@
 var div1 = document.createElement('div');
-div1.className='container-sm text-center'
+div1.className='container-sm'
 var div = document.createElement('div');
 div.className='calculator'
 
